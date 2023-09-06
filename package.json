@@ -1,0 +1,19 @@
+{
+  "name": "petstore-api-testing",
+  "version": "1.0.0",
+  "description": "petsotre api testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michelenanuard/petstoreapitesting.git"
+  },
+  "author": "anuardmihelen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michelenanuard/petstoreapitesting/issues"
+  },
+  "homepage": "https://github.com/michelenanuard/petstoreapitesting#readme"
+}
